@@ -1,4 +1,4 @@
-<h1 align="center"> Practicando Spring Boot: Challenge 01 BackEnd Conversor de Monedas </h1>
+<h1 align="center"> Challenge 01 BackEnd: Conversor de Monedas </h1>
 
 La estructura secuencial es la siguiente:
 
