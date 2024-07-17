@@ -1,5 +1,7 @@
 <h1 align="center"> Challenge 01 BackEnd: Conversor de Monedas </h1>
 
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
+
 La estructura secuencial es la siguiente:
 
 <ol>
@@ -10,3 +12,5 @@ La estructura secuencial es la siguiente:
   <li>Inserción y consulta en la base de datos;</li>
   <li>Exibición de resultados a los usuarios;</li>
 </ol>
+
+![ (6)](https://github.com/Kmosh/Alura_ChallengeBackend01_Conversor/blob/master/Badge-Conversor.png)
