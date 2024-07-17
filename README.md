@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
 
+![Challenge Oracle Next Education + Alura Banner](https://raw.githubusercontent.com/Kmosh/Alura_ChallengeBackend01_Conversor/master/img/Badge-Conversor.png)
+
 La estructura secuencial es la siguiente:
 
 <ol>
@@ -12,5 +14,3 @@ La estructura secuencial es la siguiente:
   <li>Inserción y consulta en la base de datos;</li>
   <li>Exibición de resultados a los usuarios;</li>
 </ol>
-
-![ (6)](https://github.com/Kmosh/Alura_ChallengeBackend01_Conversor/blob/master/Badge-Conversor.png)
